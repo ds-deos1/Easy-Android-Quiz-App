@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#343a40"
+    android:layout_width="fill_parent">
+
+    <ScrollView xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/sv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/cl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical">
+
+            <Button
+                android:id="@+id/quant_gardes"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:background="@drawable/customshape_22"
+                android:gravity="center"
+                android:text="Quantitative"
+                android:textColor="#393939"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/reason_gardes"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="200dp"
+                android:background="@drawable/customshape_25"
+                android:gravity="center"
+                android:text="Reasoning"
+                android:textColor="#393939"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/gk_gardes"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="400dp"
+                android:background="@drawable/customshape_21"
+                android:gravity="center"
+                android:text="GK"
+                android:textColor="#393939"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        android:layout_alignParentBottom="true"
+        app:adUnitId="@string/admob_banner_id">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

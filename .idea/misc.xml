@@ -1,0 +1,62 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable-v24/button.xml" value="0.156" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable-v24/customshape.xml" value="0.179" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable-v24/divider.xml" value="0.156" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_1.xml" value="0.156" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_10.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_11.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_12.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_13.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_14.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_2.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_21.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_22.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_23.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_24.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_25.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_26.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_27.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_28.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_29.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_3.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_30.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_31.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_32.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_33.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_34.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_4.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_5.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_6.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_7.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_8.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/customshape_9.xml" value="0.172" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/drawable/ic_baseline_share.xml" value="0.121" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/activity_about_app.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/activity_terms.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/area.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/exam.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/gk.xml" value="0.20512820512820512" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/gk_grades.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/grades.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/pass_codes.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/privacy_policy.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/q_area.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/q_grades.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/quant.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/r_grades.xml" value="0.25" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/layout/reason.xml" value="0.264" />
+        <entry key="..\:/Users/Daljit/AndroidStudioProjects/MentorQuiz/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

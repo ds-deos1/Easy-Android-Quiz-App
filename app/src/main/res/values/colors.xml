@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#393939</color>
+    <color name="colorPrimaryDark">#00BCD4</color>
+    <color name="colorAccent">#393939</color>
+    <color name="colorPWred">#393939</color>
+    <color name="mandatory">#393939</color>
+    <color name="textH">#7B7B7B</color>
+    <color name="textC">#FFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_purple">#561496</color>
+    <color name="orange">#FFA500</color>
+    <color name="black_opacity_50">#80000000</color>
+    <color name="black_opacity_25">#40000000</color>
+    <color name="light_pink">#FFEFFF</color>
+    <color name="dialog_red">#ff9999</color>
+    <color name="timeOut_btn_red">#ff6666</color>
+    <color name="wrong_red">#dd2c00</color>
+    <color name="correct_green">#00c853</color>
+    <color name="brown">#674833</color>
+</resources>

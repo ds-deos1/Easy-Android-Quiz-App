@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#343a40"
+    android:layout_width="fill_parent">
+
+    <ScrollView xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/sv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/cl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toTopOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <Button
+                android:id="@+id/alphabet"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/customshape_31"
+                android:gravity="center"
+                android:text="Alphabet Test"
+                android:textColor="#fff"
+                app:layout_constraintHorizontal_bias="0.15"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/coding"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="75dp"
+                android:background="@drawable/customshape_32"
+                android:gravity="center"
+                android:text="Coding Decoding"
+                android:textColor="#393939"
+                app:layout_constraintHorizontal_bias="0.85"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/blood"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="250dp"
+                android:background="@drawable/customshape_33"
+                android:gravity="center"
+                android:text="Blood Relations"
+                android:textColor="#fff"
+                app:layout_constraintHorizontal_bias="0.15"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/arithmetic"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="200dp"
+                android:background="@drawable/customshape_34"
+                android:gravity="center"
+                android:text="Arithmetic Reasoning"
+                android:textColor="#fff"
+                app:layout_constraintHorizontal_bias="0.85"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/classification"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="400dp"
+                android:background="@drawable/customshape_25"
+                android:gravity="center"
+                android:text="Classification"
+                android:textColor="#393939"
+                app:layout_constraintHorizontal_bias="0.25"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/analogy"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_marginTop="435dp"
+                android:background="@drawable/customshape_26"
+                android:gravity="center"
+                android:text="Analogy"
+                android:textColor="#393939"
+                app:layout_constraintHorizontal_bias="0.8"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/direction"
+                android:layout_width="175dp"
+                android:layout_height="175dp"
+                android:layout_marginTop="625dp"
+                android:background="@drawable/customshape_27"
+                android:gravity="center"
+                android:text="Direction Sense Test"
+                android:textColor="#263238"
+                app:layout_constraintHorizontal_bias="0.15"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/missing"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="550dp"
+                android:background="@drawable/customshape_28"
+                android:gravity="center"
+                android:text="Insert the Missing Character"
+                android:textColor="#fff"
+                app:layout_constraintHorizontal_bias="0.85"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/syllogism"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="825dp"
+                android:background="@drawable/customshape_29"
+                android:gravity="center"
+                android:text="Syllogism"
+                android:textColor="#fff"
+                app:layout_constraintHorizontal_bias="0.15"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/mo"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="750dp"
+                android:background="@drawable/customshape_30"
+                android:gravity="center"
+                android:text="Mathematical Operations"
+                android:textColor="#393939"
+                app:layout_constraintHorizontal_bias="0.8"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/vd"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="950dp"
+                android:background="@drawable/customshape_21"
+                android:gravity="center"
+                android:text="Venn Diagrams"
+                android:textColor="#393939"
+                app:layout_constraintHorizontal_bias="0.25"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/p1"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_marginTop="980dp"
+                android:background="@drawable/customshape_22"
+                android:gravity="center"
+                android:text="Puzzle Test 1"
+                android:textColor="#fff"
+                app:layout_constraintHorizontal_bias="0.85"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/p2"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="1150dp"
+                android:background="@drawable/customshape_23"
+                android:gravity="center"
+                android:text="Puzzle Test 2"
+                android:textColor="#fff"
+                app:layout_constraintHorizontal_bias="0.15"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+
+            <Button
+                android:id="@+id/ranking"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginTop="1150dp"
+                android:background="@drawable/customshape_24"
+                android:gravity="center"
+                android:text="Number, Ranking Test"
+                android:textColor="#fff"
+                app:layout_constraintHorizontal_bias="0.8"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:layout_constraintLeft_creator="1"
+                tools:layout_constraintRight_creator="1"
+                tools:layout_constraintTop_creator="1" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        app:adSize="BANNER"
+        android:layout_alignParentBottom="true"
+        app:adUnitId="@string/admob_banner_id">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>
